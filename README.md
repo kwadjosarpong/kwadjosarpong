@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Kwadjo Sarpong
+
 - 💻 Currently a Sophomore Computer Science student @ Kennesaw State University.
 - 🌱 Learning Web Development with HTML, CSS, and JavaScript.
 - 📬 Reach me: [Email](mailto:kwadjosarpong@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kwadjo-sarpong/) 
