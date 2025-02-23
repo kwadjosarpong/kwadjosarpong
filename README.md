@@ -1,9 +1,8 @@
 ## Hi there 👋 I'm Kwadjo Sarpong
 
 - 💻 Currently a Sophomore Computer Science student @ Kennesaw State University.
-- 🌱 Learning Web Development with HTML, CSS, and JavaScript.
 - 📬 Reach me: [Email](mailto:kwadjosarpong@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kwadjo-sarpong/) 
-- ⚡ Fun fact: I'm passionate about using tech for sustainability and design!
+- ⚡ Fun fact: I'm passionate about using tech and pairing it with my interests!
 
 <!--
 **kwadjosarpong/kwadjosarpong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
