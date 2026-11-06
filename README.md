@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Kwadjo Sarpong
 
 - 💻 Currently a Senior Information Technology student @ Kennesaw State University.
-- 📬 Reach me: [Email](mailto:kwadjosarpong@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kwadjo-sarpong/) | [Handshake](https://kennesaw.joinhandshake.com/profiles/kwadjosarpong)
+- 📬 Reach me: [Email](mailto:kwadjosarpong@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kwadjosarpong) | [Handshake](https://kennesaw.joinhandshake.com/profiles/kwadjosarpong)
 - ⚡ Fun fact: I'm passionate about using tech and pairing it with my interests!
 
 
